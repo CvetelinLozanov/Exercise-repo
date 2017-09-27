@@ -4,4 +4,8 @@ I write one more row :)
 
 Change text file :)
 
+<<<<<<< HEAD
 I write this from master branch :)
+=======
+Write this in develop branch :)
+>>>>>>> develop
