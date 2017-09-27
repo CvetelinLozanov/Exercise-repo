@@ -1,6 +1,7 @@
 Some text
-<<<<<<< HEAD
+
 I write one more row :)
-=======
+
 Change text file :)
->>>>>>> 6e828cf1774e2e2e0a97de47d398a28ae3cb0e05
+
+Write this in develop branch :)
